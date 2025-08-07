@@ -3,31 +3,36 @@ h1 {
     font-family: 'Arial Narrow', Arial, sans-serif;
     color: azure;
     margin: auto;
-    
+    padding-top: 20px;
 }
 
 h2 {
     font-family: 'Arial Narrow', Arial, sans-serif;
     color: dimgrey;
     margin: auto;
+    padding-top: 20px;
 }
 
 a {
     font-family: 'Arial Narrow', Arial, sans-serif;
     color: green;
     margin: auto;
+    padding-top: 20px;
 }
 
 img {
     margin: auto;
+    padding-top: 20px;
 }
 
 video {
     margin: auto;
+    padding-top: 20px;
 }
 
 #background {
     text-align: center;
+    margin: 0 auto;
     background-color: black;
     margin: 0 0;
     padding: 0 0;
