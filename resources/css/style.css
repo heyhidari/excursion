@@ -1,19 +1,19 @@
 
 h1 {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
     color: azure;
     margin: auto;
+    
 }
 
 h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Arial Narrow', Arial, sans-serif;
     color: dimgrey;
     margin: auto;
 }
 
 a {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Arial Narrow', Arial, sans-serif;
     color: green;
     margin: auto;
 }
@@ -29,4 +29,6 @@ video {
 #background {
     text-align: center;
     background-color: black;
+    margin: 0 0;
+    padding: 0 0;
 }
