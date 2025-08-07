@@ -18,11 +18,15 @@ a {
     margin: auto;
 }
 
-img video {
+img {
     margin: auto;
 }
 
-.background {
+video {
+    margin: auto;
+}
+
+#background {
     text-align: center;
     background-color: black;
 }
