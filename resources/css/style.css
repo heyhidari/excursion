@@ -32,5 +32,6 @@ video {
 
 #background {
     text-align: center;
+    margin: 0 auto;
     background-color: black;
 }
