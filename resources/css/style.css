@@ -1,6 +1,7 @@
 
 h1 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
     color: azure;
 }
 
@@ -11,9 +12,9 @@ h2 {
 
 a {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: blueviolet;
+    color: green;
 }
 .background {
-    align-content: center;
+    text-align: center;
     background-color: black;
 }
